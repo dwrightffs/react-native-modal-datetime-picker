@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "prop-types": "^15.6.1",
-    "react-native-modal": "^5.4.0"
+    "react-native-modal": "https://github.com/fingerfoodstudios/react-native-modal"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.2",
